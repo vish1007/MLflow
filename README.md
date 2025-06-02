@@ -1,15 +1,12 @@
-Sure! Based on your description, here's a well-structured and professional `README.md` file for your GitHub repository demonstrating basic MLflow usage:
+
 
 ---
-
-```markdown
 # MLflow Basics Example
 
 This repository contains a basic example project demonstrating how to incorporate [MLflow](https://mlflow.org/) into a machine learning workflow. It includes tracking experiments, logging metrics and parameters, and saving models using MLflow's powerful autologging and manual logging features.
 
 ## 📁 Repository Structure
 
-```
 
 ├── mlartifacts/            # Folder storing MLflow artifacts
 ├── mlruns/                 # MLflow runs tracking directory
@@ -21,7 +18,6 @@ This repository contains a basic example project demonstrating how to incorporat
 ├── mlflow-basics.txt       # Notes or logs on MLflow basics
 ├── test.py                 # Sample test/training script
 
-````
 
 ## 🚀 Features
 
