@@ -7,7 +7,7 @@ This repository contains a basic example project demonstrating how to incorporat
 
 ## 📁 Repository Structure
 
-
+'''
 ├── mlartifacts/            # Folder storing MLflow artifacts
 ├── mlruns/                 # MLflow runs tracking directory
 ├── src/                    # Source code directory (add your training scripts here)
@@ -17,7 +17,7 @@ This repository contains a basic example project demonstrating how to incorporat
 ├── mlflow-autolog.txt      # Notes or logs on MLflow autologging
 ├── mlflow-basics.txt       # Notes or logs on MLflow basics
 ├── test.py                 # Sample test/training script
-
+'''
 
 ## 🚀 Features
 
