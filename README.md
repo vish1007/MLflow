@@ -72,17 +72,4 @@ This repository contains a basic example project demonstrating how to incorporat
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙌 Acknowledgments
 
-Inspired by MLflow documentation and tutorials.
-
----
-
-Feel free to enhance the code or structure further as you explore MLflow's capabilities.
-
-```
-
----
-
-Let me know if you want me to tailor it more to the model or dataset you're using.
-```
