@@ -6,7 +6,7 @@ This repository contains a basic example project demonstrating how to incorporat
 
 ## 📁 Repository Structure
 
-```
+````
 
 ├── mlartifacts/            # Folder storing MLflow artifacts
 ├── mlruns/                 # MLflow runs tracking directory
@@ -34,7 +34,7 @@ This repository contains a basic example project demonstrating how to incorporat
 
    Make sure you have MLflow installed:
 
-   ```bash
+  ````bash
    pip install mlflow
 ````
 
